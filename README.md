@@ -5,7 +5,8 @@ I’m passionate about **cybersecurity** and **cryptography**, and I enjoy explo
 
 🚗 I’m also part of my university’s **Formula Student team**, where I’ve contributed to projects focused on **autonomous driving systems**.  
 
-🔗 Recently, my main interests and projects have shifted toward **blockchain technologies**, with a particular focus on the **Solana ecosystem**.  
+🔗 Recently, my main interests and projects have shifted toward **blockchain technologies**, with a particular focus on the **Solana ecosystem**. 
+   Check out my project [solana_sandwich](https://github.com/pietrovalese/solana_sandwich)
 
 ---
 
