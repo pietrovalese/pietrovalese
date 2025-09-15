@@ -18,4 +18,8 @@ I’m passionate about **cybersecurity** and **cryptography**, and I enjoy explo
 
 ---
 
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietrovalese&layout=compact&theme=radical)
+
+
 💡 Always open to collaboration and eager to learn from new challenges!  
