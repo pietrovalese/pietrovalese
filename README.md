@@ -6,8 +6,9 @@ I’m passionate about **cybersecurity**, **cryptography**, and how these areas 
 🚗 I was part of my university’s **Formula Student team** for about **a year and a half**, where I contributed to projects focused on **autonomous driving systems**.
 
 🔗 Recently, my main interests and projects have shifted toward **blockchain technologies**, especially within the **Solana and Ethereum ecosystem**.  
-Check out my project 👉 [solana_MEV](https://github.com/pietrovalese/solana_MEV)
-Check out my project 👉 [KZG-Polynomial-Commitment](https://github.com/pietrovalese/KZG-Polynomial-Commitment)
+
+- Check out my project 👉 [solana_MEV](https://github.com/pietrovalese/solana_MEV)
+- Check out my project 👉 [KZG-Polynomial-Commitment](https://github.com/pietrovalese/KZG-Polynomial-Commitment)
 
 ---
 
