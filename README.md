@@ -1,36 +1,38 @@
 # Hi there 👋
 
-I’m a **Master’s student in Mathematical Engineering** at **Politecnico di Torino**.  
-I’m passionate about **cybersecurity**, **cryptography**, and how these areas bridge theory with real-world applications.
+I’m a **Master’s student in Mathematical Engineering & Cybersecurity** at **Politecnico di Torino**.
+My main interests are **cybersecurity**, **cryptography**, and distributed systems, with a strong focus on bridging theory with real-world applications.
 
-🚗 I was part of my university’s **Formula Student team** for about **a year and a half**, where I contributed to projects focused on **autonomous driving systems**.
+🚗 I was part of the **Formula Student team** @E-Team Squadra Corse for more than **a year**, where I contributed to projects focused on **autonomous driving systems**.
 
-🔗 Recently, my main interests and projects have shifted toward **blockchain technologies**, especially within the **Solana and Ethereum ecosystem**.  
+🔗 Recently, my interests and projects have shifted toward **blockchain technologies**, especially within the **Bitcoin and Solana ecosystem**.
 
-- Check out my project 👉 [solana_MEV](https://github.com/pietrovalese/solana_MEV)
-- Check out my project 👉 [KZG-Polynomial-Commitment](https://github.com/pietrovalese/KZG-Polynomial-Commitment)
+* Check out my project 👉 [solana_MEV](https://github.com/pietrovalese/solana_MEV)
+* Check out my project 👉 [KZG-Polynomial-Commitment](https://github.com/pietrovalese/KZG-Polynomial-Commitment)
 
 ---
 
+I’m currently part of the **@BitPolito** cryptography team, where I work on **applied cryptography** and contribute to projects focused on improving privacy and payment infrastructure in the Bitcoin ecosystem, such as [silent_payments](https://github.com/BitPolito/silent-payments).
+
 ### 🌟 About Me
 
-- 🎓 **BSc in Computer Science** – University of Pisa
-- 🎓 **MSc student in Mathematical Engineering & Cybersecurity** - Polytechnic University of Turin
-- 🔐 Enthusiast of **security**, **privacy**, and **encryption**  
-- 🚗 Former **Formula Student** team member *(autonomous driving systems)*  
-- ⛓️ Currently exploring **Solana blockchain development** and **Ethereum ecosystem**
+* 🎓 **BSc in Computer Science** — University of Pisa
+* 🎓 **MSc in Mathematical Engineering & Cybersecurity** — Politecnico di Torino
+* 🔐 Enthusiast of **security**, **privacy**, **cryptography**, and **distributed systems**
+* 🚗 Former **Formula Student** team member *(autonomous driving systems)*
+* ⛓️ Currently exploring **Bitcoin development**, **applied cryptography**, and the **Solana ecosystem**
 
 ---
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietrovalese&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietrovalese\&layout=compact\&theme=radical)
 
 ---
 
-💡 Always open to collaboration and eager to learn from new challenges!
+💡 Always open to collaboration, research opportunities, and new challenges!
 
 ---
 
-📫 **Let’s connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pietrovalese-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pietrovalese)
+📫 **Let’s connect!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pietrovalese-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/pietrovalese)
