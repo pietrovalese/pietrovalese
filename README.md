@@ -1,38 +1,35 @@
-# Hi there 👋
-
-I’m a **Master’s student in Mathematical Engineering & Cybersecurity** at **Politecnico di Torino**.
-My main interests are **cybersecurity**, **cryptography**, and distributed systems, with a strong focus on bridging theory with real-world applications.
-
-🚗 I was part of the **Formula Student team** @E-Team Squadra Corse for more than **a year**, where I contributed to projects focused on **autonomous driving systems**.
-
-🔗 Recently, my interests and projects have shifted toward **blockchain technologies**, especially within the **Bitcoin and Solana ecosystem**.
-
-* Check out my project 👉 [solana_MEV](https://github.com/pietrovalese/solana_MEV)
-* Check out my project 👉 [KZG-Polynomial-Commitment](https://github.com/pietrovalese/KZG-Polynomial-Commitment)
+<!-- Header animato -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=whoami+Pietro+Valese;MSc+Mathematical+Engineering;Cryptography+%26+Bitcoin+dev" alt="Typing SVG" />
+</p>
 
 ---
 
-I’m currently part of the **@BitPolito** cryptography team, where I work on **applied cryptography** and contribute to projects focused on improving privacy and payment infrastructure in the Bitcoin ecosystem, such as [silent_payments](https://github.com/BitPolito/silent-payments).
-
-### 🌟 About Me
-
-* 🎓 **BSc in Computer Science** — University of Pisa
-* 🎓 **MSc in Mathematical Engineering & Cybersecurity** — Politecnico di Torino
-* 🔐 Enthusiast of **security**, **privacy**, **cryptography**, and **distributed systems**
-* 🚗 Former **Formula Student** team member *(autonomous driving systems)*
-* ⛓️ Currently exploring **Bitcoin development**, **applied cryptography**, and the **Solana ecosystem**
+**MSc Mathematical Engineering & Cybersecurity** — Politechnic of Turin  
+**BSc Computer Science** — Pisa University
+Enthusiast of **security**, **privacy**, **cryptography**, and **distributed systems**
 
 ---
 
-### 📊 GitHub Stats
+### Affiliations
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietrovalese\&layout=compact\&theme=radical)
-
----
-
-💡 Always open to collaboration, research opportunities, and new challenges!
+**[@BitPolito](https://github.com/BitPolito)** cryptography team — applied cryptography & Bitcoin privacy infrastructure  
+**[@E-TeamUnipi](https://github.com/E-TeamUnipi)** (former) — Formula Student, autonomous driving systems
 
 ---
 
-📫 **Let’s connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pietrovalese-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/pietrovalese)
+### Projects
+
+- [`silent_payments`](https://github.com/BitPolito/silent-payments) — privacy-preserving Bitcoin payments (BitPolito)
+- [`solana_MEV`](https://github.com/pietrovalese/solana_MEV) — MEV extraction on Solana
+- [`KZG-Polynomial-Commitment`](https://github.com/pietrovalese/KZG-Polynomial-Commitment) — polynomial commitment scheme implementation
+
+---
+
+![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pietrovalese&layout=compact&theme=github_dark)
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pietrovalese-58a6ff?style=flat&logo=linkedin&labelColor=0d1117)](https://www.linkedin.com/in/pietrovalese)
+
+> open to: research collaborations · security & cryptography projects
